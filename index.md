@@ -2,9 +2,14 @@
 layout: default
 ---
 
+[//]:Ciência do absurdo
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./ngs.html).
+[NGS](./ngs.html).
+[Robustez na Natureza](./robustez.html).
+
 
 There should be whitespace between paragraphs.
 
