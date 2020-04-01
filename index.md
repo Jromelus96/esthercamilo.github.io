@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
-
+ch
 [//]:Ciência do absurdo
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Muito pouco da Biologia pode ser estudado sem o auxílio de uma ferramenta computacional. 
+
+
+[Sequenciamento de DNA](./sequenciamento.html).
+
+
 
 [NGS](./ngs.html).
 [Robustez na Natureza](./robustez.html).
