@@ -1,6 +1,6 @@
 title: Biologia Computacional
 description: dos fundamentos ao estado da arte
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 gem "github-pages", group: :jekyll_plugins
