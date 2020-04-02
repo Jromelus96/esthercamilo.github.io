@@ -5,10 +5,30 @@ layout: default
 ## Tecnologias de sequenciamento
 
 
+Há milhares de anos, os humanos perceberam que as características físicas passam dos pais para os filhos. Em meados de 1850, Mendel, estudando ervilhas, demonstrou que essa transmissão se dá por algo quantificável e pode ser predito. É importante ressaltar que nos anos posteriores várias pesquisas sobre evolução e citologia estavam ocorrendo e já se tinha uma intuição de que essa informação genética deveria estar localizada em algum lugar dentro da células dos seres vivos. 
 
-quero discutir como fenômenos parecem ser tão precisos, por exemplo, como como os promotores encontram seus alvos. Como é garantido que essas coisas tão "fine tune" aconteçam?
+Friedrich Miescher isolou um ácido do núcleo das células brancas que posteriormente foi bastante estudado. Determinaram seus componentes. Seria aquela molécula a responsável transmissão da hereditariedade?
 
-propicia extrema liberdade e ao mesmo tempo segurança
+Erwin Chargaff advoga que sim e a partir desse momento, mais energia é expendida pela comunidade científica em entender não somente as regras de transmissão das características, mas também como as propriedades do DNA modelam os eventos biológicos em curso.
+
+Um mundo fantasioso foi vislumbrado, onde o conhecimento da sequência completa do DNA dos indivíduos possibilitaria o controle total da Natureza. Sabemos que o fenótipo resultante da expressão dos genes depende de processos regulatórios muito mais complexos do que imaginamos.
+
+Mas esse artigo tem por objetivo apresentar como são determinados os componentes das sequências de DNA.
+
+### Histórico
+A primeira técnica de sequênciamento....
+
+### PCR
+
+### NGS
+
+### PacBio
+
+
+
+
+
+
 
 
 
@@ -16,4 +36,13 @@ propicia extrema liberdade e ao mesmo tempo segurança
 
 
 
+
+
+ 
+ 
+
+
+
 [back](./)
+
+
