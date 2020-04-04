@@ -7,7 +7,7 @@ layout: default
 
 Há milhares de anos os humanos perceberam que as características físicas passam dos pais para os filhos. Em meados de 1850, Mendel, estudando ervilhas, demonstrou que essa transmissão dá-se por algo quantificável e que pode ser predito. É importante ressaltar que nos anos posteriores várias pesquisas sobre evolução e citologia estavam ocorrendo e já se tinha uma intuição de que essa informação genética deveria estar localizada em algum lugar dentro das células dos seres vivos. 
 
-![](/assets/images/peaplant.jpg)
+![](/assets/images/peaplant2.jpg)
 
 Friedrich Miescher isolou um ácido do núcleo das células brancas que posteriormente foi bastante estudado. Determinaram seus componentes. Seria aquela molécula a responsável transmissão da hereditariedade?
 
